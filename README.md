@@ -17,3 +17,6 @@ Lembre-se de disponibilizá-lo em um repositório público no GitHub. Como suges
 Lembre-se de que assumir o protagonismo e de criar um portfólio durante essa jornada. Isso fará toda diferença em seu desenvolvimento pessoal e profissional. 
 
 Bons estudos! 
+
+## Link do Wireframe
+[https://lucid.app/lucidchart/93ecbd7b-b34c-46b4-8a08-f6e2f913252f/edit?invitationId=inv_baa0b6a5-0c28-4d2d-89dc-c8b01ba625c2](https://lucid.app/lucidchart/93ecbd7b-b34c-46b4-8a08-f6e2f913252f/edit?invitationId=inv_baa0b6a5-0c28-4d2d-89dc-c8b01ba625c2)
